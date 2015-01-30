@@ -1,5 +1,5 @@
 # awesome-books
-list of awesome books for developers
+List of awesome books for developers
 
 
 ## General
@@ -8,6 +8,7 @@ list of awesome books for developers
 * [Pattern Hatching: Design Patterns Applied](http://isa.unomaha.edu/wp-content/uploads/2012/08/Design-Patterns.pdf) @thuypt [Review](https://github.com/ruby-vietnam/awesome-books/pull/7)
 
 ## Ruby
+* [Metaprogramming Ruby](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2) ([Review](https://github.com/ruby-vietnam/awesome-books/pull/2))
 * [The well grounded Rubyist](http://www.manning.com/black2/) @anhhct [Review](https://github.com/ruby-vietnam/awesome-books/pull/6)
 * [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) @luonghongthuan [Review](https://github.com/ruby-vietnam/awesome-books/pull/4)
 * [Growing Rails Applications in Practice](https://leanpub.com/growing-rails) @nguyenngoc2505 [Review](https://github.com/ruby-vietnam/awesome-books/pull/11)
