@@ -12,3 +12,4 @@ List of awesome books for developers
 * [The well grounded Rubyist](http://www.manning.com/black2/) @anhhct [Review](https://github.com/ruby-vietnam/awesome-books/pull/6)
 * [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) @luonghongthuan [Review](https://github.com/ruby-vietnam/awesome-books/pull/4)
 * [Growing Rails Applications in Practice](https://leanpub.com/growing-rails) @nguyenngoc2505 [Review](https://github.com/ruby-vietnam/awesome-books/pull/11)
+* [Design Pattern in Ruby](http://designpatternsinruby.com/) @hieuk09
