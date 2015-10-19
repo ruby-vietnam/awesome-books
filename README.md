@@ -4,7 +4,7 @@ List of awesome books for developers
 
 ## General
 
-* [Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) @joneslee85 [Review]()
+* [Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) @joneslee85 [Review](https://github.com/ruby-vietnam/awesome-books/pull/1)
 * [Pattern Hatching: Design Patterns Applied](http://isa.unomaha.edu/wp-content/uploads/2012/08/Design-Patterns.pdf) @thuypt [Review](https://github.com/ruby-vietnam/awesome-books/pull/7)
 
 ## Ruby
